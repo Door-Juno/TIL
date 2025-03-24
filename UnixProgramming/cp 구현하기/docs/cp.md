@@ -34,6 +34,7 @@ n = write(fd,buffer,num);
 
 ### 3. implment
 * logic
+  
 ![cp_logic](../assets/cp_1.png)
 
 ``` c
