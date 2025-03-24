@@ -3,11 +3,16 @@ Today I Learn ( 25.03.24 ~ Now ! )
 
 ***
 # Java
-* [List](https://github.com/Door-Juno/TIL/blob/main/Java/List.md)
-* [파일 입출력](https://github.com/Door-Juno/TIL/blob/main/Java/FileIO.md)
-* [향상된 for문 알아보기](https://github.com/Door-Juno/TIL/blob/main/Java/For-each.md)
-* [JDBC&MySQL 연동](https://github.com/Door-Juno/TIL/blob/main/Java/JDBC%26MySQL.md)
+* [List](https://github.com/Door-Juno/TIL/blob/main/Java/리스트/List.md)
+* [파일 입출력](https://github.com/Door-Juno/TIL/blob/main/Java/파일입출력/FileIO.md)
+* [향상된 for문 알아보기](https://github.com/Door-Juno/TIL/blob/main/Java/향상된반복문/For-each.md)
 * [예외처리](https://github.com/Door-Juno/TIL/blob/main/Java/Exception.md)
 
 ***
 # Spring
+
+***
+# Database
+* [JDBC&mySQL 연동](* [JDBC&MySQL 연동](https://github.com/Door-Juno/TIL/blob/main/Database/JDBC&mySQL연동/JDBC%26MySQL.md))
+
+***
