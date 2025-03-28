@@ -25,6 +25,6 @@ Today I Learn ( 25.03.24 ~ Now ! )
 * [more구현하기](https://github.com/Door-Juno/TIL/blob/main/UnixProgramming/more%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/docs/more.md)
 * [who구현하기](https://github.com/Door-Juno/TIL/blob/main/UnixProgramming/who%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/docs/who.md)
 * [mv구현하기](https://github.com/Door-Juno/TIL/blob/main/UnixProgramming/mv%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/docs/mv.md)
-* [(작성중) ls -R 옵션 구현하기]()
+* [ls -R 옵션 구현하기](https://github.com/Door-Juno/TIL/blob/main/UnixProgramming/ls-R%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/docs/ls-R.md)
 
 ***
