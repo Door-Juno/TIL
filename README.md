@@ -10,7 +10,7 @@ Today I Learn ( 25.03.24 ~ Now ! )
 
 ***
 # Spring
-* [SpringFramework란?](https://github.com/Door-Juno/TIL/blob/main/Spring/%08SpringFramework%EB%9E%80%3F/Spring_Framework%EB%9E%80%20%3F.md)
+* [SpringFramework란?](https://github.com/Door-Juno/TIL/blob/main/Spring/SpringFramework%EB%9E%80%3F/Spring_Framework%EB%9E%80%20%3F.md)
 * [DI와 IoC에 관하여](https://github.com/Door-Juno/TIL/blob/main/Spring/DI%2CIoC%20%EC%A0%95%EB%A6%AC/DI_IoC.md)
 
 
