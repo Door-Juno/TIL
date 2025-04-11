@@ -3,6 +3,7 @@ Today I Learn ( 25.03.24 ~ Now ! )
 ***
 # DataStructure
 * [Stack](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Stack/docs/stack.md)
+* [LinkedList](https://github.com/Door-Juno/TIL/blob/main/DataStructure/LinkedList/docs/LinkedList.md)
 ***
 # Java
 * [List](https://github.com/Door-Juno/TIL/blob/main/Java/리스트/List.md)
