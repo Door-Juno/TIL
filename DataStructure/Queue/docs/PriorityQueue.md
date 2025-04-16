@@ -26,6 +26,7 @@
 | **이진 힙(Binary Heap)** | **O(log n) / O(log n)** | 가장 효율적, 실무 사용 |
 
 > 대부분의 언어에서 `PriorityQueue`는 내부적으로 **Heap**으로 구현됨
+₩   9ㅑㅏ0ㅔ
 
 ### 4. Python : 우선순위 큐 구현
 ``` python 

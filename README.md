@@ -1,13 +1,24 @@
 # TIL
 Today I Learn ( 25.03.24 ~ Now ! )
 ***
-# DataStructure
+# DataStructure && Algorithm
+### 자료구조
 * [LinkedList](https://github.com/Door-Juno/TIL/blob/main/DataStructure/LinkedList/docs/LinkedList.md)
 * [Stack](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Stack/docs/stack.md)
 * [Set](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Set/docs/Sets.md)
 * [Queue](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Queue/docs/Queue.md)
 * [Deque](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Queue/docs/Deque.md)
 * [Priority_Queue](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Queue/docs/PriorityQueue.md)
+
+### 알고리즘 
+##### 정렬 알고리즘
+* [BubbleSort ~]()
+* [InsertionSort ~]()
+* [SelectionSort ~]()
+
+##### 그래프 탐색 알고리즘
+* [Breadth-First Search ~]()
+* [Depth -First Search ~]()
 
 ***
 
