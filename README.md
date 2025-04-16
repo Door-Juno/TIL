@@ -2,10 +2,13 @@
 Today I Learn ( 25.03.24 ~ Now ! )
 ***
 # DataStructure
-* [Stack](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Stack/docs/stack.md)
 * [LinkedList](https://github.com/Door-Juno/TIL/blob/main/DataStructure/LinkedList/docs/LinkedList.md)
-* [Queue](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Queue/docs/Queue.md)
+* [Stack](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Stack/docs/stack.md)
 * [Set](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Set/docs/Sets.md)
+* [Queue](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Queue/docs/Queue.md)
+* [Deque](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Queue/docs/Deque.md)
+* [Priority_Queue](https://github.com/Door-Juno/TIL/blob/main/DataStructure/Queue/docs/PriorityQueue.md)
+
 ***
 
 # Java
