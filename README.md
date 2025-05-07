@@ -14,7 +14,7 @@ Today I Learn ( 25.03.24 ~ Now ! )
 ##### 정렬 알고리즘
 * [BubbleSort](https://github.com/Door-Juno/TIL/blob/main/Algorithm/Sort/BubbleSort/docs/BubbleSort.md)
 * [InsertionSort](https://github.com/Door-Juno/TIL/blob/main/Algorithm/Sort/InsertionSort/docs/InsertionSort.md)
-* [SelectionSort ~]()
+* [SelectionSort](https://github.com/Door-Juno/TIL/blob/main/Algorithm/Sort/SelectionSort/docs/SelectionSort.md)
 
 ##### 그래프 탐색 알고리즘
 * [Breadth-First Search ~]()
